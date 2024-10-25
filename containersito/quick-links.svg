@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009fda"/>
+      <stop offset="1" stop-color="#004e9b"/>
+    </linearGradient>
+  </defs>
+  <g id="acceso_rap" data-name="acceso rap" transform="translate(-0.505 -0.505)">
+    <path id="Trazado_680" data-name="Trazado 680" d="M6.767,27.069H6.755a5.765,5.765,0,0,1-4.063-9.841L6.9,13.02a5.726,5.726,0,0,1,4.074-1.691h.01a5.714,5.714,0,0,1,4.065,1.692,5.581,5.581,0,0,1,.855,1.088.8.8,0,0,1-1.371.826,4.028,4.028,0,0,0-.614-.78,4.128,4.128,0,0,0-2.937-1.226h-.008A4.126,4.126,0,0,0,8.043,14.14L3.823,18.36a4.166,4.166,0,0,0,2.936,7.108h.008A4.124,4.124,0,0,0,9.7,24.258L13.062,20.9a.8.8,0,0,1,1.13,1.133l-3.352,3.345A5.723,5.723,0,0,1,6.767,27.069Z" transform="translate(0 -2.063)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="Trazado_681" data-name="Trazado 681" d="M17.275,16.74h-.012A5.72,5.72,0,0,1,13.2,15.048a5.584,5.584,0,0,1-.854-1.088.8.8,0,1,1,1.37-.826,3.975,3.975,0,0,0,.614.779,4.13,4.13,0,0,0,2.938,1.227h.009a4.122,4.122,0,0,0,2.93-1.211l4.221-4.221a4.162,4.162,0,0,0-5.874-5.9L15.187,7.168a.8.8,0,0,1-1.13-1.133L17.41,2.691a5.762,5.762,0,1,1,8.147,8.15l-4.208,4.208A5.724,5.724,0,0,1,17.275,16.74Z" transform="translate(-2.244)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
